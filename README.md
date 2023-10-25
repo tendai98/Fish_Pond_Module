@@ -14,7 +14,7 @@ The project consists of several code files:
 - `wifi.h`: Handles Wi-Fi configurations.
 - `ph.h`: Contains functions for pH measurement.
 - `tds.h`: Manages TDS measurement.
-- `valve_relays.h`: Controls the relays for input and output valves.
+- `valve_relays.h`: Controls the relays for input and output solenoid valves.
 - `Fish_Pond_Module.ino`: The main project file that combines these components and controls the behavior of the system.
 
 ## Code Overview
