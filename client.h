@@ -4,11 +4,11 @@
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
 
-#define WIFI_SSID "Tinkertech"
+#define WIFI_SSID "WIFI-SSID"
 #define WIFI_PASSWORD "1234567890"
-#define API_KEY "AIzaSyAo7WcUIbCl5ZzvizcgW-80wEDVfMRxiEA"
-#define DATABASE_URL "https://pond-controller-default-rtdb.firebaseio.com/" 
-#define USER_EMAIL "controller@system.net"
+#define API_KEY "API-KEY"
+#define DATABASE_URL "https://system-app.firebaseio.com/" 
+#define USER_EMAIL "user@domain.org"
 #define USER_PASSWORD "1234567890"
 
 FirebaseData fbdo;
